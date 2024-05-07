@@ -9,6 +9,7 @@ class MailChimpController extends Controller
 {
     public function index()
     {
+        // testing
         return view('welcome');
     }
 
